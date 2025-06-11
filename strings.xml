@@ -1,0 +1,7 @@
+<!-- app/src/main/res/values/strings.xml -->
+<resources>
+    <string name="app_name">PrivacyAnalyzerApp</string>
+    <string name="hint_app_url">Enter app URL</string>
+    <string name="button_analyze">Analyze</string>
+    <string name="result_placeholder">Result will appear here.</string>
+</resources>
